@@ -17,7 +17,7 @@ Tools Used to Design Gear:
 * Fillet Tool: Applied to round off sharp edges on the gear teeth, enhancing durability and performance.
 
 Design Link'onshape': https://cad.onshape.com/documents/ca6f07fc5ffa2b3762cc2b4a/w/b3942ecd4e4ce4c3822cd7e7/e/fb8c7ae74b79f46d1d0d03f0
-https://cad.onshape.com/documents/ca6f07fc5ffa2b3762cc2b4a/w/b3942ecd4e4ce4c3822cd7e7/e/fb8c7ae74b79f46d1d0d03f0
+
 # 2- Coffee Cup
 The coffee mug is a cylindrical container designed to hold beverages. It features a handle for easy gripping and a hollow interior to accommodate liquid. The design focuses on functionality and ergonomic comfort.
 
